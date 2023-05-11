@@ -15,8 +15,13 @@
 Table of Contents:
 
 First Look at 'The Ultimate Halloween Candy Power Ranking'
+
 First Visualization of the Data
+
 Additional Analysis
+
 Which type of candy has higher sugar content?
+
 Welcome to Flavor Town!
+
 What are the top 10 Halloween candies?
